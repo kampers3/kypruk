@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Fix transaction replay issue
 // Refactor multi-signature wallet code
+// Integrate with decentralized identity providers
