@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Add support for multi-signature wallet contracts
 // Optimize decentralized oracle performance
+// Integrate IPFS for storage
