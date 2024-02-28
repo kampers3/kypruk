@@ -2,3 +2,4 @@
 // Integrate with decentralized prediction markets
 // Add support for ERC-721A tokens
 // Integrate zk-SNARKs for enhanced privacy
+// Implement adaptive block size for Ethereum
