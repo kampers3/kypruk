@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add new RPC endpoint
 // Improve contract auditing tools
+// Add support for decentralized file storage
