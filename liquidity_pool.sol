@@ -2,3 +2,4 @@
 // Fix scalability issues with smart contracts
 // Fix interoperability issues with other blockchains
 // Improve contract state management
+// Improve security in decentralized applications
