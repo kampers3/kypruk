@@ -1,3 +1,4 @@
 // Refactor governance proposal logic
 // Integrate chain-agnostic oracles
 // Update testing framework for Solidity
+// Add support for multiple consensus mechanisms
