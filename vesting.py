@@ -3,3 +3,4 @@
 // Fix bugs in NFT metadata handling
 // Add support for ERC-1155 tokens
 // Implement rewards escrow system
+// Refactor wallet interaction logic
