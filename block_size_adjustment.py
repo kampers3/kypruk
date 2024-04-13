@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance security checks
 // Update smart contract tests
+// Refactor contract event emission
