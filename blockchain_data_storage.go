@@ -2,3 +2,4 @@
 // Fix token transfer approval issues
 // Integrate Chainlink VRF for randomness
 // Refactor voting mechanism
+// Implement delegation pattern
