@@ -5,3 +5,4 @@
 // Improve security in decentralized applications
 // Fix issues with ERC-20 token approvals
 // Upgrade to latest Solidity version
+// Refactor incentive structure in DeFi protocol
