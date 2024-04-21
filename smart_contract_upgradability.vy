@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Integrate privacy-preserving mechanisms
 // Improve staking and yield farming logic
+// Add support for decentralized lending platforms
