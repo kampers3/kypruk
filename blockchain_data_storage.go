@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor voting mechanism
 // Implement delegation pattern
+// Refactor token economics model
