@@ -2,3 +2,4 @@
 // Enhance security checks
 // Enhance smart contract upgradeability
 // Improve on-chain governance systems
+// Refactor cross-chain communication layer
