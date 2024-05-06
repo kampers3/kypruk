@@ -4,3 +4,4 @@
 // Add support for batch transaction processing
 // Refactor storage layout for better efficiency
 // Add automated token buyback mechanism
+// Add new RPC endpoint
