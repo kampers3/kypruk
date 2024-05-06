@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Update README with Go module examples
 // Improve scalability for smart contract platforms
+// Add multi-chain governance support
