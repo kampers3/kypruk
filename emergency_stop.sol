@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Optimize gas cost in function execution
 // Optimize cross-chain communication
+// Add support for multiple consensus mechanisms
