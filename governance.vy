@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Enhance smart contract state changes monitoring
 // Improve gas fee estimation accuracy
+// Fix issue with multi-chain transactions
