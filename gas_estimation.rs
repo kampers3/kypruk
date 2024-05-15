@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Refactor token distribution mechanism
 // Integrate Chainlink oracles for price data
+// Improve gas fee estimation accuracy
