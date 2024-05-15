@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Refactor ERC-721 transfer logic
 // Improve token burning mechanism
+// Enhance contract upgrade process
