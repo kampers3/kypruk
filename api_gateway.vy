@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Fix deserialization bug in Haskell code
 // Enhance smart contract upgradeability
+// Fix errors in NFT minting logic
