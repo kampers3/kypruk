@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Add support for multiple consensus mechanisms
 // Refactor voting mechanism
+// Improve cross-chain asset management
