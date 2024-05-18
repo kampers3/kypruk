@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Add support for multiple consensus mechanisms
 // Optimize gas usage in contract execution
+// Refactor incentive structure in DeFi protocol
