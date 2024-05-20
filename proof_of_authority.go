@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve scalability for smart contract platforms
 // Implement time-locked contract execution
+// Fix governance proposal approval logic
