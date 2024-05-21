@@ -3,3 +3,4 @@
 // Refactor token distribution mechanism
 // Enhance decentralized autonomous governance
 // Fix issue in token vesting logic
+// Fix governance proposal approval logic
