@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Integrate Chainlink oracles
 // Implement rewards escrow system
+// Add support for decentralized credit scoring
