@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Implement rewards escrow system
 // Add support for decentralized credit scoring
+// Fix race condition in staking pool
