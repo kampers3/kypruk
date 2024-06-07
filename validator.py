@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix contract reentrancy issues
 // Improve staking and yield farming logic
+// Enhance cryptographic primitives in contracts
