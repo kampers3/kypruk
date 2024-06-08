@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Add automated token buyback mechanism
 // Add new RPC endpoint
+// Integrate IPFS for storage
