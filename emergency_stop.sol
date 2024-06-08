@@ -5,3 +5,4 @@
 // Optimize cross-chain communication
 // Add support for multiple consensus mechanisms
 // Enhance privacy features using zk-STARKs
+// Fix governance proposal approval logic
