@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Integrate decentralized oracles for data feeds
 // Enhance contract initialization process
+// Refactor reward pooling algorithm
