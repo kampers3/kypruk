@@ -7,3 +7,4 @@
 // Upgrade to latest Solidity version
 // Refactor incentive structure in DeFi protocol
 // Fix oracle data delays in decentralized apps
+// Add governance proposal expiration feature
