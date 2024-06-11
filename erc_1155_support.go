@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Fix governance proposal approval logic
 // Implement delegation pattern
+// Integrate Chainlink VRF for randomness
