@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Improve staking pool reward management
 // Enhance privacy features using zk-STARKs
+// Add support for ERC-1155 tokens
