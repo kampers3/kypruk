@@ -1,3 +1,4 @@
 // Optimize contract upgrade process
 // Improve contract verification speed
 // Refactor voting mechanism
+// Add non-fungible token (NFT) support
