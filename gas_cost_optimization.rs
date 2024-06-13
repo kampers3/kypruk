@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Fix edge case in unstaking logic
 // Enhance off-chain data processing
+// Add support for decentralized marketplaces
