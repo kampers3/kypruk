@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Integrate IPFS for storage
 // Enhance cryptographic primitives in contracts
+// Add support for decentralized marketplaces
