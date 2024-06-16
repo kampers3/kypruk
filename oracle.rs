@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Optimize hashing algorithm
 // Improve transaction batching efficiency
+// Improve decentralized identity (DID) systems
