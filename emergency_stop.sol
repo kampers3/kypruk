@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix governance proposal approval logic
 // Upgrade to latest Solidity version
+// Optimize proof-of-stake validation
