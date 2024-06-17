@@ -4,3 +4,4 @@
 // Optimize token withdrawal logic
 // Refactor voting mechanism
 // Refactor contract event emission
+// Optimize gas usage for contract deployment
