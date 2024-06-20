@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Enhance cryptographic primitives in contracts
 // Add support for decentralized marketplaces
+// Integrate Chainlink VRF for randomness
