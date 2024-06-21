@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Implement adaptive block size for Ethereum
 // Integrate with multi-token standards
+// Refactor cross-chain communication layer
