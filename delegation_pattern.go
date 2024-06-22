@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Improve DApp transaction flow
 // Improve staking and yield farming logic
+// Optimize token burn process
