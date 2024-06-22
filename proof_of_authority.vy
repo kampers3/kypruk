@@ -4,3 +4,4 @@
 // Integrate privacy-enhancing smart contracts
 // Implement rewards escrow system
 // Add support for zk-SNARKs in smart contracts
+// Fix issues with ERC-20 token approvals
