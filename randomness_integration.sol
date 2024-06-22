@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Fix overflow bug in token calculation
 // Add support for decentralized content distribution
+// Add governance proposal expiration feature
