@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance contract upgrade process
 // Improve staking logic for better rewards
+// Refactor ERC-721 transfer logic
