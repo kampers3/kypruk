@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Fix transaction replay issue
 // Fix governance proposal approval logic
+// Enhance cryptographic primitives in contracts
