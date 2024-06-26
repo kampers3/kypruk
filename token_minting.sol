@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate with multi-token standards
 // Refactor cross-chain communication layer
+// Implement zero-knowledge proof (ZKP) support
