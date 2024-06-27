@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Implement delegation pattern
 // Integrate Chainlink VRF for randomness
+// Refactor token economics model
