@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor voting mechanism
 // Improve cross-chain asset management
+// Fix transaction replay issue
