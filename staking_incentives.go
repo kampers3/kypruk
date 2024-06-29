@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix interoperability issues with other blockchains
 // Add dynamic contract fees
+// Add dynamic contract fees
