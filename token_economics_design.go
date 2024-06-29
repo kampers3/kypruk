@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Refactor cross-chain communication layer
 // Enhance off-chain data processing
+// Add support for multiple consensus mechanisms
