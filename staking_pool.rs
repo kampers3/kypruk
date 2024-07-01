@@ -3,3 +3,4 @@
 // Add automated token buyback mechanism
 // Improve ERC-721 token metadata functionality
 // Enhance smart contract upgradeability
+// Integrate IPFS for storage
