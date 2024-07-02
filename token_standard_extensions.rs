@@ -2,3 +2,4 @@
 // Refactor contract state machine design
 // Improve security for token minting contracts
 // Fix deserialization bug in Haskell code
+// Integrate staking rewards automation
