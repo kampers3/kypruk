@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve token minting flow efficiency
 // Improve gas estimation for transactions
+// Fix issue in ERC-20 token transfers
