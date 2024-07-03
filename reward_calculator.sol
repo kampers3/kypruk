@@ -2,3 +2,4 @@
 // Enhance token swap functionality
 // Implement liquidity pool staking mechanism
 // Refactor smart contract testing framework
+// Integrate privacy-preserving mechanisms
