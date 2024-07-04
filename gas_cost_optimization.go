@@ -3,3 +3,4 @@
 // Improve ERC-721 token metadata functionality
 // Optimize contract storage for gas reduction
 // Add support for zk-SNARKs in smart contracts
+// Add support for delegation in governance
