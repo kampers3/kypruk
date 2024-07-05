@@ -8,3 +8,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix oracle data delays in decentralized apps
 // Add governance proposal expiration feature
+// Integrate zk-rollups for scaling
