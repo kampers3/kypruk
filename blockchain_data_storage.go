@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Implement delegation pattern
 // Refactor token economics model
+// Add unit tests for staking module
