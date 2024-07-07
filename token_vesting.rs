@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Improve oracle data validation mechanisms
 // Implement automated governance voting
+// Implement cross-chain bridge
