@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Fix scalability issues with smart contracts
 // Fix type mismatch in Haskell smart contract
+// Add support for yield farming rewards
