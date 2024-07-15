@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Update testing framework for Solidity
 // Fix errors in contract interaction with wallets
+// Refactor smart contract testing framework
