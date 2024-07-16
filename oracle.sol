@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance gas fee management
 // Fix transaction replay issue
+// Optimize contract upgrade process
