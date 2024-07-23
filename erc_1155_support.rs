@@ -2,3 +2,4 @@
 // Improve decentralized lending contract flexibility
 // Improve decentralized lending contract flexibility
 // Refactor staking logic
+// Integrate IPFS for storage
