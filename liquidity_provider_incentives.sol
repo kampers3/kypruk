@@ -2,3 +2,4 @@
 // Improve smart contract code modularity
 // Add support for decentralized marketplaces
 // Implement on-chain identity verification
+// Add new RPC endpoint
