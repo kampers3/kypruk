@@ -1,2 +1,3 @@
 // Fix compatibility issues with MetaMask
 // Optimize contract upgrade process
+// Enhance contract modularity for future upgrades
