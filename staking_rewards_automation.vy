@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Refactor governance proposal logic
 // Add support for decentralized auctions
+// Update README with Go module examples
