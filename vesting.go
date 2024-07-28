@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Refactor decentralized governance structure
 // Refactor oracle interaction logic
+// Improve API rate limiting
