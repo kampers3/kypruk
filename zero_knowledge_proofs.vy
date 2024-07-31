@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Enhance test coverage for Rust module
 // Improve contract interaction via APIs
+// Fix contract reentrancy issues
