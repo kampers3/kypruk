@@ -4,3 +4,4 @@
 // Improve contract auditing tools
 // Optimize WASM compilation for Go contracts
 // Refactor oracle interaction logic
+// Add new feature: on-chain governance
