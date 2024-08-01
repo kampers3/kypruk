@@ -5,3 +5,4 @@
 // Enhance contract interaction APIs
 // Improve token burning mechanism
 // Fix issue with multi-chain transactions
+// Implement on-chain identity verification
