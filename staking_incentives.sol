@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Improve DApp transaction flow
 // Update testing framework for Solidity
+// Optimize state channels for faster transactions
