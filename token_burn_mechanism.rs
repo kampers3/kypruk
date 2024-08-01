@@ -5,3 +5,4 @@
 // Add support for decentralized file storage
 // Fix transaction replay issue
 // Optimize state channels for faster transactions
+// Add governance proposal expiration feature
