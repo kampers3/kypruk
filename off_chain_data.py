@@ -5,3 +5,4 @@
 // Improve decentralized oracle protocols
 // Refactor Ethereum gas price management
 // Fix overflow bug in token calculation
+// Add support for decentralized lending platforms
