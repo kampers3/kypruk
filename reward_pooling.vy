@@ -2,3 +2,4 @@
 // Fix scalability issues with smart contracts
 // Add support for delegation in governance
 // Refactor Ethereum gas price management
+// Improve gas fee estimation accuracy
