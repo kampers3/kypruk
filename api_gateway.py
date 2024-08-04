@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Refactor storage layout for better efficiency
 // Refactor smart contract testing framework
+// Add support for NFT marketplaces
