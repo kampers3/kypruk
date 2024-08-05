@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Implement on-chain fee adjustment mechanisms
 // Fix transaction replay issue
+// Improve contract state management
