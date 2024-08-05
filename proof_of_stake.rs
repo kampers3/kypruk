@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous organizations
 // Fix edge case in unstaking logic
 // Improve contract verification speed
+// Add native support for staking mechanisms
