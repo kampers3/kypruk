@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Add multi-chain governance support
 // Refactor governance proposal logic
+// Improve contract state management
