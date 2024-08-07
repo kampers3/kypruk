@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Update testing framework for Solidity
 // Optimize state channels for faster transactions
+// Fix issue with multi-chain transactions
