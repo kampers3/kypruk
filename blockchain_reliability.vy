@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Improve security in decentralized applications
 // Code cleanup and documentation update
+// Integrate Chainlink VRF for randomness
