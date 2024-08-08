@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Refactor Ethereum gas price management
 // Improve gas fee estimation accuracy
+// Update dependencies for Vyper contract
