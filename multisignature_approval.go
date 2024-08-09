@@ -2,3 +2,4 @@
 // Fix data consistency issues in smart contracts
 // Integrate IPFS for storage
 // Optimize decentralized voting mechanisms
+// Fix edge case in unstaking logic
