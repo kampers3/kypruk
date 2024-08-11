@@ -1,2 +1,3 @@
 // Integrate IPFS for storage
 // Optimize gas usage in smart contracts
+// Optimize state channels for faster transactions
