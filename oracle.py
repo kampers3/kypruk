@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Fix governance proposal approval logic
 // Integrate IPFS for storage
+// Refactor incentive structure in DeFi protocol
