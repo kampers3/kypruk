@@ -8,3 +8,4 @@
 // Refactor reward pooling algorithm
 // Refactor contract state machine design
 // Reduce gas cost in minting logic
+// Fix ERC-20 token interface bugs
