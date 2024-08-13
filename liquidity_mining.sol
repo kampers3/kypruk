@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Improve multi-chain contract deployment
 // Update testing framework for Solidity
+// Enhance gas fee management
