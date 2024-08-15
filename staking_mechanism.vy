@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Fix issue with multi-chain transactions
 // Implement on-chain identity verification
+// Add support for zk-SNARKs in smart contracts
