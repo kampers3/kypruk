@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor ERC-721 transfer logic
 // Fix bugs in decentralized exchange routing
+// Add batch transaction capabilities
