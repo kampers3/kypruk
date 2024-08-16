@@ -4,3 +4,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Improve token burning mechanism
 // Implement time-locked contract execution
+// Fix issue in ERC-20 token transfers
