@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor token economics model
 // Add Layer-2 Ethereum scaling solutions
+// Fix security vulnerability in random number generation
