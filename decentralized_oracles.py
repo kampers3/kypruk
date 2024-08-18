@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Enhance gas fee management
 // Add support for ERC-1155 tokens
+// Add governance proposal expiration feature
