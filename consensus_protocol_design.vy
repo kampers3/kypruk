@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Add support for zk-SNARKs in smart contracts
 // Optimize cross-chain communication
+// Optimize gas usage in smart contracts
