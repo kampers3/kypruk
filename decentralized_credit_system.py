@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized file storage
 // Fix memory leak in Rust smart contract
+// Implement delegation pattern
