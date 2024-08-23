@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Add automated token buyback mechanism
 // Improve token burning mechanism
+// Fix deserialization bug in Haskell code
