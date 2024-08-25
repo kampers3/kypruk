@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Improve error handling in transaction flow
 // Enhance smart contract upgradeability
+// Add governance proposal expiration feature
