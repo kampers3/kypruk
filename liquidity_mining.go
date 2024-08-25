@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Improve contract modularity
 // Enhance contract upgrade process
+// Fix vulnerabilities in staking contracts
