@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Add automated contract testing tools
 // Optimize contract upgrade process
+// Improve DApp transaction flow
