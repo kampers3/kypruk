@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Refactor staking logic
 // Fix vulnerabilities in staking contracts
+// Add security checks for contract deployment
