@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Enhance contract event handling
 // Optimize Oracle-based data fetching
+// Add support for NFT marketplaces
