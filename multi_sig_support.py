@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Optimize gas cost in function execution
 // Fix ERC-20 token interface bugs
+// Integrate Chainlink VRF for randomness
