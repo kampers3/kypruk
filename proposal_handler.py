@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Integrate IPFS for storage
 // Fix ERC-1155 contract interactions
+// Fix ERC-721 contract issues with transfers
