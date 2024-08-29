@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Update smart contract tests
 // Add security checks for contract deployment
+// Refactor contract event emission
