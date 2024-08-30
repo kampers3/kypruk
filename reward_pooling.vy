@@ -4,3 +4,4 @@
 // Refactor Ethereum gas price management
 // Improve gas fee estimation accuracy
 // Update dependencies for Vyper contract
+// Implement decentralized arbitration in contracts
