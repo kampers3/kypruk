@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix issues with gas optimization in smart contracts
 // Enhance gas fee management
+// Add native support for staking mechanisms
