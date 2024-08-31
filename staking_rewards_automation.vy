@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Add support for decentralized auctions
 // Update README with Go module examples
+// Fix security vulnerability in random number generation
