@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Improve contract verification speed
 // Add native support for staking mechanisms
+// Add batch processing for transactions
