@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Fix errors in contract interaction with wallets
 // Refactor smart contract testing framework
+// Implement delegation pattern
