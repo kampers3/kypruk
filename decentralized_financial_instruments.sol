@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Bugfix: incorrect reward calculation
 // Add multi-chain transaction support
+// Add automated smart contract testing
