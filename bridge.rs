@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Improve gas estimation for transactions
 // Add slashing mechanism for malicious actors
+// Refactor storage layout for better efficiency
