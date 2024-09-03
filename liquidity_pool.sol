@@ -10,3 +10,4 @@
 // Add governance proposal expiration feature
 // Integrate zk-rollups for scaling
 // Fix type mismatch in Haskell smart contract
+// Fix memory optimization issues in contracts
