@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Add support for multi-signature wallet contracts
 // Refactor voting mechanism
+// Implement liquidity pool staking mechanism
