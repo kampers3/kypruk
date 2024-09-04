@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate zk-rollups for scaling
 // Optimize token burn process
+// Fix contract reentrancy issues
