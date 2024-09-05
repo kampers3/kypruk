@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Refactor smart contract testing framework
 // Add support for NFT marketplaces
+// Optimize gas usage in smart contracts
