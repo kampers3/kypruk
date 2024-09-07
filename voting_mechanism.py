@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Optimize oracle data fetching mechanism
 // Improve scalability for smart contract platforms
+// Integrate privacy-preserving mechanisms
