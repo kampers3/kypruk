@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Implement contract function batching
 // Add multi-chain transaction support
+// Add support for ERC-721A tokens
