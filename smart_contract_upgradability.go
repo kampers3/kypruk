@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized insurance protocols
 // Add support for decentralized credit scoring
+// Fix compatibility issues with MetaMask
