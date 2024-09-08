@@ -10,3 +10,4 @@
 // Optimize proof-of-stake validation
 // Optimize multi-chain interaction
 // Add support for Layer-2 solutions
+// Add governance proposal expiration feature
