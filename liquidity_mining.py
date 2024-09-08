@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Enhance cryptographic primitives in contracts
 // Improve smart contract code modularity
+// Integrate multi-chain liquidity pools
