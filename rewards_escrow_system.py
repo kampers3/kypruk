@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Improve error handling in transaction flow
 // Enhance smart contract audit tools
+// Enhance logging for better debugging
