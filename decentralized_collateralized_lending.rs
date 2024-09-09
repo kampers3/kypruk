@@ -2,3 +2,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor decentralized exchange (DEX) code
 // Implement zero-knowledge proof (ZKP) support
+// Add governance proposal expiration feature
