@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Fix memory optimization issues in contracts
 // Add decentralized contract upgradeability
+// Improve staking logic for better rewards
