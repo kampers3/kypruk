@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
 // Implement on-chain fee adjustment mechanisms
+// Fix security vulnerability in random number generation
