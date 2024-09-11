@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Refactor multi-asset token management
 // Integrate IPFS for storage
+// Add unit tests for staking module
