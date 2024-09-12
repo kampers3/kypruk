@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Refactor staking logic
 // Refactor decentralized exchange (DEX) code
+// Improve multi-chain transaction processing
