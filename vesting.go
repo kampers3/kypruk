@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Refactor oracle interaction logic
 // Improve API rate limiting
+// Add support for decentralized insurance protocols
