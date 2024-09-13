@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Fix transaction replay issue
 // Optimize contract upgrade process
+// Optimize proof-of-stake validation
