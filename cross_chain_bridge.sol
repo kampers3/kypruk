@@ -3,3 +3,4 @@
 // Add support for fractional token ownership
 // Refactor reward pooling algorithm
 // Optimize token burn process
+// Fix type mismatch in Haskell smart contract
