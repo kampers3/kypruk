@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Fix transaction replay issue
 // Improve staking logic for better rewards
+// Improve on-chain governance systems
