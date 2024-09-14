@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Improve transaction batching efficiency
 // Improve decentralized identity (DID) systems
+// Add support for ERC-721A tokens
