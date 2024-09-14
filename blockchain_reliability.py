@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Fix governance proposal approval logic
 // Fix issues with cross-chain transaction finality
+// Integrate zk-rollups for scaling
