@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Add governance proposal expiration feature
 // Refactor contract to use EIP-712 signatures
+// Update testing framework for Solidity
