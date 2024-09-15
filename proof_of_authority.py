@@ -7,3 +7,4 @@
 // Add support for decentralized credit scoring
 // Fix race condition in staking pool
 // Improve staking pool reward management
+// Refactor storage layout for better efficiency
