@@ -3,3 +3,4 @@
 // Integrate with external blockchain networks
 // Fix memory leak in Rust smart contract
 // Integrate zk-rollups for scaling
+// Fix interoperability issues with other blockchains
