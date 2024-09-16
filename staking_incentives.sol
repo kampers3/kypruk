@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Optimize state channels for faster transactions
 // Fix issue with multi-chain transactions
+// Add fallback mechanism in Solidity contract
