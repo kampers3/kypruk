@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Add support for zk-SNARKs in smart contracts
 // Fix issues with ERC-20 token approvals
+// Enhance contract modularity for future upgrades
