@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Optimize decentralized voting mechanisms
 // Add multi-chain governance support
+// Reduce gas cost in minting logic
