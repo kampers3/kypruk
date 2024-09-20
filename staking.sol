@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Add multi-chain governance support
 // Fix race condition in staking pool
+// Enhance API rate limiting for smart contracts
