@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Refactor oracle interaction logic
 // Add new feature: on-chain governance
+// Fix issues with gas optimization in smart contracts
