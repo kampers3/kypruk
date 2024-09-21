@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Fix issues with contract finalization
 // Fix issues with token transfer confirmations
+// Integrate privacy-enhancing smart contracts
