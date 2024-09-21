@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Upgrade to latest Solidity version
 // Refactor staking logic
+// Fix scalability issues with smart contracts
