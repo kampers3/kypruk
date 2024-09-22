@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Integrate with decentralized prediction markets
 // Update testing framework for Solidity
+// Integrate Chainlink oracles
