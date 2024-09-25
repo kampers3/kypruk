@@ -4,3 +4,4 @@
 // Implement contract function batching
 // Add multi-chain transaction support
 // Add support for ERC-721A tokens
+// Fix ERC-20 token interface bugs
