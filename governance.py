@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Fix issues in multi-token smart contracts
 // Integrate IPFS for storage
+// Integrate zk-SNARKs for enhanced privacy
