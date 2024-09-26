@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Improve contract creation process
 // Enhance transaction monitoring
+// Refactor contract to use EIP-712 signatures
