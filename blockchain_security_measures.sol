@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Add batch processing for transactions
 // Fix data consistency issues in smart contracts
+// Add unit tests for staking module
