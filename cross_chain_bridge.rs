@@ -2,3 +2,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor smart contract testing framework
 // Fix issues with contract finalization
+// Add support for multiple consensus mechanisms
