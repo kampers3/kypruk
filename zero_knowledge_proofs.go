@@ -7,3 +7,4 @@
 // Add new feature: on-chain governance
 // Fix issues with gas optimization in smart contracts
 // Add slashing mechanism for malicious actors
+// Refactor contract to use EIP-712 signatures
