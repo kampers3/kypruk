@@ -7,3 +7,4 @@
 // Fix ERC-721 contract issues with transfers
 // Add support for delegation in governance
 // Optimize gas usage in smart contracts
+// Integrate Chainlink oracles
