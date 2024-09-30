@@ -8,3 +8,4 @@
 // Add support for delegation in governance
 // Optimize gas usage in smart contracts
 // Integrate Chainlink oracles
+// Implement time-locked contract execution
