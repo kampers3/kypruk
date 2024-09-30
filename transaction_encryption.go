@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Optimize token minting flow
 // Optimize Oracle-based data fetching
+// Optimize WASM compilation for Go contracts
