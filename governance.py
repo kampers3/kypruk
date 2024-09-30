@@ -5,3 +5,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate IPFS for storage
 // Integrate zk-SNARKs for enhanced privacy
+// Fix issues with gas optimization in smart contracts
