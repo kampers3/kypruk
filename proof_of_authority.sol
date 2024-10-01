@@ -6,3 +6,4 @@
 // Enhance off-chain data processing
 // Update smart contract tests
 // Refactor smart contract testing framework
+// Enhance smart contract upgradeability
