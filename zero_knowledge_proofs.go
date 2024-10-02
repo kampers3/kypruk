@@ -8,3 +8,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add slashing mechanism for malicious actors
 // Refactor contract to use EIP-712 signatures
+// Enhance contract modularity
