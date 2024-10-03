@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Enhance developer documentation
 // Add decentralized contract upgradeability
+// Add new feature: on-chain governance
