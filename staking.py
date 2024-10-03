@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Improve smart contract code modularity
 // Optimize token withdrawal logic
+// Integrate privacy-preserving mechanisms
