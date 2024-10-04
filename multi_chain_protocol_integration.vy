@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Optimize cross-chain bridging mechanisms
 // Optimize hashing algorithm
+// Integrate privacy-preserving mechanisms
