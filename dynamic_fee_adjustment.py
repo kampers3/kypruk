@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor reward pooling algorithm
 // Add multi-sig wallet functionality
+// Implement adaptive block size for Ethereum
