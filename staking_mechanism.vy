@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Implement on-chain identity verification
 // Add support for zk-SNARKs in smart contracts
+// Refactor storage layout for better efficiency
