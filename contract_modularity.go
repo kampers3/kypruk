@@ -4,3 +4,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issues with token vesting contracts
 // Add support for Layer-2 solutions
+// Improve on-chain governance systems
