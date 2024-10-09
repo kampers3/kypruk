@@ -6,3 +6,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance smart contract upgradeability
 // Improve contract execution speed
+// Add fallback mechanism in Solidity contract
