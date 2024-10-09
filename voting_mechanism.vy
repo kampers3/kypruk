@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix Oracle communication delay issues
 // Enhance smart contract upgradeability
+// Implement zero-knowledge proof (ZKP) support
