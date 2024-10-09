@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Refactor contract state machine design
 // Fix issues with contract state management
+// Add support for decentralized marketplaces
