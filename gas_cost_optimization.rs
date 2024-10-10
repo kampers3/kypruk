@@ -6,3 +6,4 @@
 // Enhance off-chain data processing
 // Add support for decentralized marketplaces
 // Refactor storage layout for better efficiency
+// Add native support for staking mechanisms
