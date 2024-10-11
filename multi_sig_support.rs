@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Implement cross-chain bridge
 // Integrate privacy-enhancing smart contracts
+// Implement emergency stop mechanism
