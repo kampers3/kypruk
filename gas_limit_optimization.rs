@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Update README with Go module examples
 // Improve contract state management
+// Refactor staking logic
