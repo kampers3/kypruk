@@ -5,3 +5,4 @@
 // Refactor contract event emission
 // Improve decentralized exchange (DEX) liquidity
 // Upgrade to latest Solidity version
+// Refactor contract to use EIP-712 signatures
