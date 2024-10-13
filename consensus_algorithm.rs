@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Add support for multiple consensus mechanisms
 // Improve cross-chain asset management
+// Improve staking pool reward management
