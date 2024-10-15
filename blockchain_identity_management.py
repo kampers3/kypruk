@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Add slashing mechanism for malicious actors
 // Optimize cross-chain bridging mechanisms
+// Add support for decentralized lending platforms
