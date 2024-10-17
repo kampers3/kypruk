@@ -6,3 +6,4 @@
 // Integrate decentralized oracles for data feeds
 // Reduce gas cost in minting logic
 // Integrate Chainlink VRF for randomness
+// Add support for fractional token ownership
