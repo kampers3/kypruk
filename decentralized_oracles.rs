@@ -7,3 +7,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add support for yield farming rewards
 // Add support for multi-signature wallet contracts
+// Add non-fungible token (NFT) support
