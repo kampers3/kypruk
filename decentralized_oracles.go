@@ -8,3 +8,4 @@
 // Add automated contract testing tools
 // Optimize token burn process
 // Optimize oracle data fetching mechanism
+// Refactor incentive structure in DeFi protocol
