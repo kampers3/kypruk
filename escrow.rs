@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor voting mechanism
 // Implement delegation pattern
+// Implement price feed oracles for tokens
