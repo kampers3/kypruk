@@ -4,3 +4,4 @@
 // Implement time-locked contract execution
 // Add support for ERC-721A tokens
 // Fix scalability issues with smart contracts
+// Enhance security checks
