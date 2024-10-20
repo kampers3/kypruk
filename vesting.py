@@ -8,3 +8,4 @@
 // Improve contract creation process
 // Fix memory optimization issues in contracts
 // Optimize cross-chain bridging mechanisms
+// Implement a new contract event system
