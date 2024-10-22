@@ -6,3 +6,4 @@
 // Integrate privacy-preserving mechanisms
 // Refactor contract event emission
 // Enhance smart contract upgradeability
+// Refactor governance token logic
