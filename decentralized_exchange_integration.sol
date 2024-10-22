@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Add security checks for contract deployment
 // Refactor contract event emission
+// Enhance test coverage for Rust module
