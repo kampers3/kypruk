@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Fix Oracle communication delay issues
 // Integrate flash loan functionality
+// Fix compatibility issues with major wallets
