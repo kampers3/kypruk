@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Improve token burning mechanism
 // Improve gas fee estimation accuracy
+// Improve multi-chain contract deployment
