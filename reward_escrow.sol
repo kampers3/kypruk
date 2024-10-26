@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Add native support for staking rewards
 // Fix type mismatch in Haskell smart contract
+// Fix wallet interaction issues in DeFi protocols
