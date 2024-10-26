@@ -6,3 +6,4 @@
 // Integrate multi-chain liquidity pools
 // Fix compatibility issues with major wallets
 // Add gas optimization features for smart contracts
+// Fix overflow bug in token calculation
