@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Implement on-chain identity verification
 // Add new RPC endpoint
+// Fix issue in token vesting logic
