@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Add multi-sig wallet functionality
 // Refactor token economics model
+// Implement on-chain identity verification
