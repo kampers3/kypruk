@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Fix issue in token vesting logic
 // Improve API rate limiting
+// Add automated smart contract testing
