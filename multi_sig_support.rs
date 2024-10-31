@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Implement emergency stop mechanism
 // Improve security for token minting contracts
+// Integrate Chainlink VRF for randomness
