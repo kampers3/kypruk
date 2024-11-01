@@ -7,3 +7,4 @@
 // Improve smart contract code modularity
 // Optimize token withdrawal logic
 // Integrate privacy-preserving mechanisms
+// Enhance logging for better debugging
