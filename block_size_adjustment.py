@@ -6,3 +6,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Upgrade to latest Solidity version
 // Refactor contract to use EIP-712 signatures
+// Fix deserialization bug in Haskell code
