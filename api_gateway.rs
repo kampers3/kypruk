@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Improve decentralized identity (DID) systems
 // Implement performance optimizations for DeFi
+// Add support for DeFi lending protocols
