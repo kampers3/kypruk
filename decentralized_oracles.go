@@ -10,3 +10,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
+// Add new feature: on-chain governance
