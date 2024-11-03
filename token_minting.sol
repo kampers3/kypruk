@@ -5,3 +5,4 @@
 // Integrate with multi-token standards
 // Refactor cross-chain communication layer
 // Implement zero-knowledge proof (ZKP) support
+// Integrate with decentralized prediction markets
