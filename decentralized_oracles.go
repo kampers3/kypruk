@@ -11,3 +11,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
 // Add new feature: on-chain governance
+// Add support for decentralized credit scoring
