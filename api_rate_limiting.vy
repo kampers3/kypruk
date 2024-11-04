@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix ERC-20 token interface bugs
 // Fix compatibility issues with MetaMask
+// Add support for multiple consensus mechanisms
