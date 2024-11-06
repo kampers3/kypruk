@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Improve oracle data validation mechanisms
 // Implement performance optimizations for DeFi
+// Integrate Chainlink oracles for price data
