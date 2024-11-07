@@ -10,3 +10,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance contract modularity
 // Improve gas estimation for transactions
+// Fix errors in NFT minting logic
