@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor smart contract testing framework
 // Implement delegation pattern
+// Refactor storage layout for better efficiency
