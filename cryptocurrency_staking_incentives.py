@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Refactor incentive structure in DeFi protocol
 // Enhance cryptographic primitives in contracts
+// Integrate Chainlink oracles for price data
