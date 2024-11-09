@@ -6,3 +6,4 @@
 // Integrate flash loan functionality
 // Fix compatibility issues with major wallets
 // Code cleanup and documentation update
+// Fix ERC-721 contract issues with transfers
