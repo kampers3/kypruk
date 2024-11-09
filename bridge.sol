@@ -8,3 +8,4 @@
 // Improve security in decentralized applications
 // Optimize state channels for faster transactions
 // Refactor Ethereum gas price management
+// Fix compatibility issues with MetaMask
