@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Add multi-chain governance support
 // Reduce gas cost in minting logic
+// Improve staking pool reward management
