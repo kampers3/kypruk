@@ -8,3 +8,4 @@
 // Improve staking logic for better rewards
 // Enhance API rate limiting for smart contracts
 // Optimize hashing algorithm
+// Add support for fractional token ownership
