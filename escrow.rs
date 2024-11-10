@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Implement delegation pattern
 // Implement price feed oracles for tokens
+// Enhance privacy features using zk-STARKs
