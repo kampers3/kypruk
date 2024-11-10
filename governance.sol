@@ -8,3 +8,4 @@
 // Improve decentralized oracle protocols
 // Refactor governance token logic
 // Fix contract reentrancy issues
+// Fix interoperability issues with other blockchains
