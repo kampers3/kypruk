@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Optimize WASM compilation for Go contracts
 // Enhance privacy features using zk-STARKs
+// Fix bugs in NFT metadata handling
