@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Implement cross-chain bridge
 // Improve security for token minting contracts
+// Add native support for staking mechanisms
