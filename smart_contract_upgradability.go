@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Fix compatibility issues with MetaMask
 // Add support for delegation in governance
+// Integrate privacy-enhancing smart contracts
