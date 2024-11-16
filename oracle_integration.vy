@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Enhance developer documentation
 // Add governance proposal expiration feature
+// Improve contract interaction via APIs
