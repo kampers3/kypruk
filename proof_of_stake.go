@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Optimize Oracle-based data fetching
 // Fix overflow bug in token calculation
+// Refactor contract event emission
