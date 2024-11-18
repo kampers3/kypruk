@@ -3,3 +3,4 @@
 // Improve contract state management
 // Integrate privacy-preserving mechanisms
 // Fix compatibility with MetaMask
+// Update testing framework for Solidity
