@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Add support for yield farming rewards
 // Enhance smart contract extensibility
+// Integrate automated market maker (AMM) logic
