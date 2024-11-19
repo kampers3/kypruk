@@ -7,3 +7,4 @@
 // Fix memory leak in Rust smart contract
 // Implement rewards escrow system
 // Refactor Ethereum gas price management
+// Add support for ERC-721A tokens
