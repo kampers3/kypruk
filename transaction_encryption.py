@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Optimize decentralized application performance
 // Fix ERC-20 token interface bugs
+// Refactor staking logic
