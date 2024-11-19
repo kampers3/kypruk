@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Add multi-chain transaction support
 // Optimize gas usage for contract deployment
+// Fix compatibility issues with major wallets
