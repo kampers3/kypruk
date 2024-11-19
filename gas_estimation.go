@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Fix deserialization bug in Haskell code
 // Optimize contract upgrade process
+// Optimize WASM compilation for Go contracts
