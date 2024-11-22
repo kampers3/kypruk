@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix compatibility issues with MetaMask
 // Optimize token burn process
+// Fix type mismatch in Haskell smart contract
