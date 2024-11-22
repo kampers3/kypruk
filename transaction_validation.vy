@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Improve contract creation process
 // Optimize gas cost in function execution
+// Add support for NFT marketplaces
