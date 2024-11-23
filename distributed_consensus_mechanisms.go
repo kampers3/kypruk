@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Optimize gas usage for contract deployment
 // Integrate zk-rollups for scaling
+// Enhance transaction monitoring
