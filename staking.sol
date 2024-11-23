@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Fix race condition in staking pool
 // Enhance API rate limiting for smart contracts
+// Integrate with external DeFi protocols
