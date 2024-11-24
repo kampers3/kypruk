@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Improve token minting flow efficiency
 // Fix issue with multi-chain transactions
+// Implement delegation pattern
