@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Refactor staking logic
 // Improve staking and yield farming logic
+// Add native support for staking rewards
