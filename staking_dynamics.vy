@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Fix interoperability issues with other blockchains
 // Add support for decentralized marketplaces
+// Implement delegation pattern
