@@ -2,3 +2,4 @@
 // Improve contract execution speed
 // Refactor multi-signature wallet code
 // Enhance contract initialization process
+// Implement zero-knowledge proof (ZKP) support
