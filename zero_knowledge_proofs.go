@@ -11,3 +11,4 @@
 // Enhance contract modularity
 // Improve gas estimation for transactions
 // Fix errors in NFT minting logic
+// Add native support for staking rewards
