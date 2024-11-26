@@ -8,3 +8,4 @@
 // Implement rewards escrow system
 // Refactor Ethereum gas price management
 // Add support for ERC-721A tokens
+// Implement cross-platform contract compatibility
