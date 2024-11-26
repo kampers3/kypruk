@@ -7,3 +7,4 @@
 // Fix compatibility issues with major wallets
 // Code cleanup and documentation update
 // Fix ERC-721 contract issues with transfers
+// Refactor storage layout for better efficiency
