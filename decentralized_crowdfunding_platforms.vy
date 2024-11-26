@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add multi-sig wallet functionality
 // Integrate staking rewards automation
+// Add governance proposal expiration feature
