@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve gas estimation for transactions
 // Fix errors in contract interaction with wallets
+// Enhance token swap functionality
