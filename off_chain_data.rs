@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Optimize token minting flow
 // Add new RPC endpoint
+// Improve staking logic for better rewards
