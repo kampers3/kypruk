@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Add support for decentralized file storage
 // Implement liquidity pool staking mechanism
+// Add native support for staking mechanisms
