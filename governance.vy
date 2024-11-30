@@ -8,3 +8,4 @@
 // Refactor wallet interaction logic
 // Enhance contract state verification
 // Update README with Go module examples
+// Integrate staking rewards automation
