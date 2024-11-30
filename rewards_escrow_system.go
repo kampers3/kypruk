@@ -6,3 +6,4 @@
 // Optimize token burn process
 // Fix type mismatch in Haskell smart contract
 // Update testing framework for Solidity
+// Refactor cross-chain communication layer
