@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Implement adaptive block size for Ethereum
 // Fix governance proposal approval logic
+// Refactor staking logic
