@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Refactor storage layout for better efficiency
 // Enhance contract initialization process
+// Refactor smart contract testing framework
