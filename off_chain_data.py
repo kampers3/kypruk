@@ -6,3 +6,4 @@
 // Refactor Ethereum gas price management
 // Fix overflow bug in token calculation
 // Add support for decentralized lending platforms
+// Improve staking pool reward management
