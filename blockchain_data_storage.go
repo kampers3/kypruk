@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Refactor token economics model
 // Add unit tests for staking module
+// Optimize proof-of-stake validation
