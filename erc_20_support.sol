@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Refactor storage layout for better efficiency
 // Reduce gas cost in minting logic
+// Add support for ERC-721A tokens
