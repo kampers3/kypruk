@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Enhance governance contract flexibility
 // Improve contract verification speed
+// Refactor smart contract testing framework
