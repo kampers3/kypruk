@@ -9,3 +9,4 @@
 // Refactor Ethereum gas price management
 // Fix bugs in multi-token systems
 // Add new RPC endpoint
+// Add support for zk-SNARKs in smart contracts
