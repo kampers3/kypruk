@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Fix vulnerabilities in staking contracts
 // Implement contract function batching
+// Enhance smart contract extensibility
