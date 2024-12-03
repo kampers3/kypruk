@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Add support for zk-SNARKs in smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Integrate staking rewards automation
