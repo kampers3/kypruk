@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Improve contract modularity
 // Optimize gas usage in contract execution
+// Add multi-chain governance support
