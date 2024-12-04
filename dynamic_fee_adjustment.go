@@ -9,3 +9,4 @@
 // Add support for fractional token ownership
 // Improve error handling in transaction flow
 // Fix issue with multi-chain transactions
+// Improve contract modularity
