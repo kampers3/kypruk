@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Implement zero-knowledge proof (ZKP) support
 // Integrate with decentralized prediction markets
+// Integrate IPFS for storage
