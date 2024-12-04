@@ -8,3 +8,4 @@
 // Add support for NFT marketplaces
 // Improve smart contract logging
 // Add unit tests for staking module
+// Improve contract creation process
