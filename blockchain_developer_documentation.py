@@ -4,3 +4,4 @@
 // Optimize gas usage in contract execution
 // Optimize gas usage for contract deployment
 // Refactor multi-signature wallet code
+// Add non-fungible token (NFT) support
