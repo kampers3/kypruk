@@ -8,3 +8,4 @@
 // Optimize WASM compilation for Go contracts
 // Enhance privacy features using zk-STARKs
 // Fix bugs in NFT metadata handling
+// Add native support for staking mechanisms
