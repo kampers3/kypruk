@@ -8,3 +8,4 @@
 // Enhance contract initialization process
 // Improve transaction batching efficiency
 // Improve security for token minting contracts
+// Fix race condition in staking pool
