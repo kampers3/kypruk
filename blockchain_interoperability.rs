@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance off-chain data processing
 // Implement a new contract event system
+// Add support for multiple consensus mechanisms
