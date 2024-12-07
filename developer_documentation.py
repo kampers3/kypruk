@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Implement delegation pattern
 // Enhance contract event handling
+// Enhance contract modularity for future upgrades
