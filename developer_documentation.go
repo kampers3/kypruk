@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Fix issues in token transfer logic
 // Optimize hashing algorithm
+// Improve staking pool reward management
