@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Integrate with decentralized identity providers
 // Integrate decentralized anonymous identity systems
+// Add support for multiple consensus mechanisms
