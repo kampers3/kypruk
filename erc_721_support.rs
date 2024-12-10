@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Enhance governance contract flexibility
 // Integrate with decentralized storage systems
+// Refactor decentralized exchange (DEX) code
