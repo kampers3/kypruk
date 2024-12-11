@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Add new RPC endpoint
 // Improve staking logic for better rewards
+// Fix issue in ERC-20 token transfers
