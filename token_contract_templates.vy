@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Add support for zk-SNARKs in smart contracts
 // Refactor governance token logic
+// Fix issues with cross-chain transaction finality
