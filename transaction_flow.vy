@@ -10,3 +10,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issues with contract state management
 // Enhance contract modularity for future upgrades
+// Add multi-chain transaction support
