@@ -3,3 +3,4 @@
 // Refactor cross-chain communication layer
 // Enhance decentralized autonomous governance
 // Refactor voting mechanism
+// Refactor multi-asset token management
