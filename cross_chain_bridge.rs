@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issues with contract state management
 // Implement delegation pattern
+// Add native support for staking mechanisms
