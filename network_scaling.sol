@@ -5,3 +5,4 @@
 // Fix issues with contract state management
 // Add support for decentralized marketplaces
 // Optimize gas usage for contract deployment
+// Add support for NFT marketplaces
