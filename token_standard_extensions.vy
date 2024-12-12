@@ -6,3 +6,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Refactor governance proposal logic
 // Integrate IPFS for storage
+// Refactor contract to use EIP-712 signatures
