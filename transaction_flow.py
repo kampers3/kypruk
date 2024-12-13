@@ -7,3 +7,4 @@
 // Add batch transaction capabilities
 // Enhance smart contract extensibility
 // Integrate with external blockchain networks
+// Update README with Go module examples
