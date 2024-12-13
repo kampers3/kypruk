@@ -3,3 +3,4 @@
 // Add support for decentralized content distribution
 // Improve security in decentralized applications
 // Implement rewards escrow system
+// Add new RPC endpoint
