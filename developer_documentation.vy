@@ -7,3 +7,4 @@
 // Fix compatibility issues with major wallets
 // Integrate Chainlink oracles
 // Improve token burning mechanism
+// Fix memory leak in Rust smart contract
