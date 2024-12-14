@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Implement rewards escrow system
 // Add new RPC endpoint
+// Implement rewards escrow system
