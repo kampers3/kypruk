@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract state management
 // Add security checks for contract deployment
+// Fix memory leak in Rust smart contract
