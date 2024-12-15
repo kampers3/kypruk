@@ -8,3 +8,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Integrate automated market maker (AMM) logic
 // Enhance smart contract compatibility
+// Fix type mismatch in Haskell smart contract
