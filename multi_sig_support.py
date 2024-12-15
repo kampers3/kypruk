@@ -6,3 +6,4 @@
 // Fix ERC-20 token interface bugs
 // Integrate Chainlink VRF for randomness
 // Implement decentralized arbitration in contracts
+// Add support for yield farming rewards
