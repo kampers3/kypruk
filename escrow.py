@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Fix interoperability issues with other blockchains
 // Add support for zk-SNARKs in smart contracts
+// Add non-fungible token (NFT) support
