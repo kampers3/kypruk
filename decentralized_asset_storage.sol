@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Integrate zk-rollups for scaling
 // Integrate staking rewards automation
+// Integrate with decentralized identity providers
