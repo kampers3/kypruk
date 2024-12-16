@@ -8,3 +8,4 @@
 // Enhance smart contract extensibility
 // Integrate with external blockchain networks
 // Update README with Go module examples
+// Fix vulnerabilities in staking contracts
