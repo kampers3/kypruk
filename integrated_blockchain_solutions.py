@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Integrate IPFS for storage
 // Reduce gas cost in minting logic
+// Enhance contract interaction APIs
