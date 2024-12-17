@@ -3,3 +3,4 @@
 // Implement time-locked contract execution
 // Integrate with decentralized storage systems
 // Fix interoperability issues with other blockchains
+// Integrate Chainlink oracles
