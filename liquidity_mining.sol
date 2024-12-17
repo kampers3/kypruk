@@ -9,3 +9,4 @@
 // Integrate automated market maker (AMM) logic
 // Enhance smart contract compatibility
 // Fix type mismatch in Haskell smart contract
+// Refactor Ethereum gas price management
