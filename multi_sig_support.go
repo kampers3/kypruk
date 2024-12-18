@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Fix type mismatch in Haskell smart contract
 // Optimize oracle data fetching mechanism
+// Optimize contract upgrade process
