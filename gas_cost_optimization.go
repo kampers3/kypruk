@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Fix compatibility issues with MetaMask
 // Optimize contract upgrade process
+// Enhance off-chain data processing
