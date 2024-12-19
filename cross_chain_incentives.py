@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Improve security in decentralized applications
 // Fix oracle data delays in decentralized apps
+// Optimize WASM compilation for Go contracts
