@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Refactor voting mechanism
 // Fix overflow bug in token calculation
+// Integrate zk-rollups for scaling
