@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Fix data consistency issues in smart contracts
 // Add unit tests for staking module
+// Integrate automated market maker (AMM) logic
