@@ -4,3 +4,4 @@
 // Add support for decentralized marketplaces
 // Add support for DeFi lending protocols
 // Fix deserialization bug in Haskell code
+// Add multi-sig wallet functionality
