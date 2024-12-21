@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Refactor reward pooling algorithm
 // Fix overflow bug in token calculation
+// Fix transaction replay issue
