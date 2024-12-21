@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Add support for decentralized credit scoring
 // Add support for Layer-2 solutions
+// Improve token minting flow efficiency
