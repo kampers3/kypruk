@@ -9,3 +9,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor storage layout for better efficiency
 // Add support for zk-SNARKs in smart contracts
+// Add batch transaction capabilities
