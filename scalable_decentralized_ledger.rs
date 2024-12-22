@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Optimize gas usage for contract deployment
 // Fix bugs in decentralized exchange routing
+// Fix memory leak in Rust smart contract
