@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Add support for zk-SNARKs in smart contracts
 // Improve contract creation process
+// Update testing framework for Solidity
