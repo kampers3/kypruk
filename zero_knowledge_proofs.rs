@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Optimize hashing algorithm
 // Optimize hashing algorithm
+// Optimize token minting flow
