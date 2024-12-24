@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Enhance API rate limiting for smart contracts
 // Refactor wallet interaction logic
+// Fix issues with token vesting contracts
