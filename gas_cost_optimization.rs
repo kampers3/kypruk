@@ -9,3 +9,4 @@
 // Add native support for staking mechanisms
 // Enhance governance contract flexibility
 // Enhance contract upgrade mechanism
+// Add batch processing for transactions
