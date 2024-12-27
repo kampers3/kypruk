@@ -6,3 +6,4 @@
 // Add support for Layer-2 solutions
 // Improve on-chain governance systems
 // Improve contract verification speed
+// Integrate Chainlink VRF for randomness
