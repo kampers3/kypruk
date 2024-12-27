@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Update smart contract tests
 // Update smart contract tests
+// Integrate automated market maker (AMM) logic
