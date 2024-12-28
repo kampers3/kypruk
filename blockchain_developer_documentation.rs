@@ -3,3 +3,4 @@
 // Fix bugs in decentralized exchange routing
 // Improve smart contract code modularity
 // Fix oracle data delays in decentralized apps
+// Fix oracle data delays in decentralized apps
