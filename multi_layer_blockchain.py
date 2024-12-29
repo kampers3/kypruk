@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Refactor reward pooling algorithm
 // Refactor governance proposal logic
+// Fix compatibility issues with MetaMask
