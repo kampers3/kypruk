@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Integrate with decentralized identity providers
 // Refactor validator reward system
+// Fix issue with multi-chain transactions
