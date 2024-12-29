@@ -7,3 +7,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize contract upgrade process
 // Enhance off-chain data processing
+// Fix memory optimization issues in contracts
