@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement decentralized arbitration in contracts
 // Add support for yield farming rewards
+// Refactor storage layout for better efficiency
