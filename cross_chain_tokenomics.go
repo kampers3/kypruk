@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Improve smart contract code modularity
 // Add support for multiple consensus mechanisms
+// Implement adaptive block size for Ethereum
