@@ -3,3 +3,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate with Ethereum Layer-2 solutions
 // Refactor wallet interaction logic
+// Refactor governance proposal logic
