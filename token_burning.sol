@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance test coverage for Rust module
 // Refactor incentive structure in DeFi protocol
+// Add support for yield farming rewards
