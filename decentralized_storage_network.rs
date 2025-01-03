@@ -5,3 +5,4 @@
 // Improve security in decentralized applications
 // Implement on-chain fee adjustment mechanisms
 // Bugfix: incorrect reward calculation
+// Improve contract modularity
