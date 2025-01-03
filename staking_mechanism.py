@@ -7,3 +7,4 @@
 // Refactor contract event emission
 // Enhance smart contract upgradeability
 // Refactor governance token logic
+// Add fallback mechanism in Solidity contract
