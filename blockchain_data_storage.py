@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Improve token burning mechanism
 // Improve token burning mechanism
+// Add support for multi-signature wallet contracts
