@@ -5,3 +5,4 @@
 // Improve contract interaction via APIs
 // Fix contract reentrancy issues
 // Fix issues in multi-token smart contracts
+// Enhance API rate limiting for smart contracts
