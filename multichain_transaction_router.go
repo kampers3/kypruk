@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance token swap functionality
 // Integrate Chainlink oracles
+// Fix oracle data delays in decentralized apps
