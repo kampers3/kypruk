@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Improve staking pool reward management
 // Integrate staking rewards automation
+// Update testing framework for Solidity
