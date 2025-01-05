@@ -6,3 +6,4 @@
 // Add automated token buyback mechanism
 // Fix memory optimization issues in contracts
 // Fix security vulnerability in random number generation
+// Bugfix: incorrect reward calculation
