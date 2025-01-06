@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Fix bug in random number generation
 // Implement on-chain fee adjustment mechanisms
+// Implement zero-knowledge proof (ZKP) support
