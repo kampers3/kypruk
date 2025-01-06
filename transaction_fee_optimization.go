@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Fix type mismatch in Haskell smart contract
 // Implement decentralized arbitration in contracts
+// Implement adaptive block size for Ethereum
