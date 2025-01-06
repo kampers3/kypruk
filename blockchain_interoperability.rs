@@ -4,3 +4,4 @@
 // Enhance off-chain data processing
 // Implement a new contract event system
 // Add support for multiple consensus mechanisms
+// Add support for zk-SNARKs in smart contracts
