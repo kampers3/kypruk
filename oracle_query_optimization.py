@@ -2,3 +2,4 @@
 // Integrate decentralized prediction models
 // Improve on-chain governance systems
 // Improve smart contract code modularity
+// Add fallback mechanism in Solidity contract
